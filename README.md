@@ -45,6 +45,7 @@ This internship provided valuable industry exposure under the **Tata Group ecosy
 
 ### 🚀 Example Preview
 > *“A single-page dynamic dashboard showing local weather and breaking news — updated live with every refresh.”*
->
+
+---
 #🔗 live link
 https://ayus-portfolio.netlify.app/
