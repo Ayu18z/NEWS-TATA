@@ -1,4 +1,4 @@
-# 🌐 Tata Prashikshan 2023 — Vocational Training Project
+# 🌐 Tata Prashikshan 2023
 
 ## 🏢 Organization
 **Tata Prashikshan-23**  
