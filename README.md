@@ -7,7 +7,7 @@
 ---
 
 ## 💡 Project Overview
-Developed a **dynamic web application** that delivers **real-time local news and weather updates** using public APIs.  
+Developed a **dynamic web page/application** that delivers **real-time local news and weather updates** using public APIs.  
 The project focused on enhancing user interactivity, modular web design, and API-driven data integration.
 
 ---
