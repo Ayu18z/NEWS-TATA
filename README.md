@@ -34,7 +34,7 @@ The project focused on enhancing user interactivity, modular web design, and API
 ## 📈 Outcome
 - Delivered a **fully functional, API-driven web app** with live news and weather updates.  
 - Strengthened understanding of **frontend web development** and **API consumption**.  
-- Gained hands-on experience in **real-world project design and deployment workflow**.
+- Gained hands-on experience in **real-world project design and deployment of workflow**.
 
 ---
 
