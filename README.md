@@ -1,7 +1,7 @@
 # 🌐 Tata Prashikshan 2023
 
 ## 🏢 Organization
-**Tata Prashikshan-23**  
+**Tata Steel Prashikshan-23**  
 *Vocational Training Program by Tata Group*
 
 ---
